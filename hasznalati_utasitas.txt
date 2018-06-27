@@ -1,0 +1,9 @@
+A feldolgozandó képeket, azaz a nyers képeket tedd a "NYERS" nevû mappába.
+
+A beállítások módosításához kattints kétszer a "beallitások" fájlra és módosítsd a megfelelõ beállításokat.
+
+Az indításhoz kattints kétszer a "facebookra" fájlra.
+
+Várj néhány másodpercet, esetleg egy-két percet ha sok kép van.
+
+Ha kész, megjelenik egy "KESZ" nevû mappa, amiben az átméretezett és vízjelezett képek vannak.
